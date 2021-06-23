@@ -1,0 +1,809 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"alternate-reverse"
+			],
+			[
+				"in",
+				"infinite"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"lightor",
+				"lightgoldenrodyellow"
+			],
+			[
+				"ligh",
+				"lightblue"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"f",
+				"flex-end"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"fw",
+				"flex-wrap"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"l",
+				"baseline"
+			],
+			[
+				"mgn",
+				"margin"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"blo",
+				"blockquote"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"to",
+				"topics"
+			],
+			[
+				"mrg",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ab",
+				"about"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"fs",
+				"font-style"
+			],
+			[
+				"widt",
+				"max-width"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"textla",
+				"text-align"
+			],
+			[
+				"bsz",
+				"background-size"
+			],
+			[
+				"bas",
+				"background-size"
+			],
+			[
+				"br",
+				"background-repeat"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"fz",
+				"font-size"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"pddi",
+				"padding-left"
+			],
+			[
+				"bsiz",
+				"background-size"
+			],
+			[
+				"bs",
+				"background-size"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"bp",
+				"background-position"
+			],
+			[
+				"bgre",
+				"background-repeat"
+			],
+			[
+				"bg",
+				"background-image"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"boredr",
+				"border-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"me",
+				"margin-left"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"ul",
+				"url"
+			],
+			[
+				"mrt",
+				"margin-top"
+			],
+			[
+				"s",
+				"space-between"
+			],
+			[
+				"B",
+				"button"
+			],
+			[
+				"hed",
+				"header"
+			],
+			[
+				"bz",
+				"background-size"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"en",
+				"en"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"ds",
+				"display\tproperty"
+			],
+			[
+				"tal",
+				"text-align\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"bb",
+				"border-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"tea",
+				"text-align\tproperty"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"ii",
+				"inline\tdisplay"
+			],
+			[
+				"borr",
+				"border-radius\tproperty"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"Text",
+				"text-align\tproperty"
+			],
+			[
+				"MARGIN",
+				"margin-bottom\tproperty"
+			],
+			[
+				"inline",
+				"inline\tdisplay"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"mt",
+				"margin-top\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"aside",
+				"aside_left"
+			],
+			[
+				"grid-templt",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"grid-auo",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"gri",
+				"grid-column\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"bottom",
+				"margin-bottom\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"margin-t",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"wor",
+				"word-spacing\tproperty"
+			],
+			[
+				"n",
+				"no-drop\tcursor"
+			],
+			[
+				"MAR",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"wr",
+				"flex-wrap\tproperty"
+			],
+			[
+				"row",
+				"row\tflex-direction"
+			],
+			[
+				"FO",
+				"font-size\tproperty"
+			],
+			[
+				"L",
+				"line-height\tproperty"
+			],
+			[
+				"ro",
+				"row\tflex-direction"
+			],
+			[
+				"fe",
+				"flex-start\talign-items"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"FLE",
+				"flex-direction\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"co",
+				"contain\tbackground-size"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"MARGIO",
+				"margin-top\tproperty"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"boo",
+				"bottom\tproperty"
+			],
+			[
+				"margin-TO",
+				"margin-bottom\tproperty"
+			],
+			[
+				"CO",
+				"cover\tbackground-size"
+			],
+			[
+				"PADD",
+				"padding\tproperty"
+			],
+			[
+				"backgro",
+				"background-size\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Code Folding: Fold"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/admin/Desktop/git/my-project/index.html",
+		"/C/Users/admin/Desktop/git/index.html",
+		"/C/Users/admin/Desktop/html/new project/index.css",
+		"/C/Users/admin/Desktop/html/new project/index.html",
+		"/C/Users/admin/Desktop/git/learn-gitlab/intex.html",
+		"/C/Users/admin/Desktop/git/learn-gitlab/learn-gitlab/intex.html",
+		"/C/Users/admin/Desktop/git/learn-gitlab/awesome",
+		"/C/Users/admin/Desktop/html/gallery section/css/style.css",
+		"/C/Users/admin/Desktop/html/gallery section/index.html",
+		"/C/Users/admin/Desktop/html/css practice wibbitz website/css/style.css",
+		"/C/Users/admin/Desktop/html/css practice wibbitz website/index.html",
+		"/C/Users/admin/Desktop/html/gallery section/gallery.css",
+		"/C/Users/admin/Desktop/html/gallery section/gallery.html",
+		"/C/Users/admin/Desktop/html/grid.html",
+		"/C/Users/admin/Desktop/html/css practice main spotlight/04 - shipping website spotlight/index.html",
+		"/C/Users/admin/Desktop/html/css practice main spotlight/04 - shipping website spotlight/css/style.css",
+		"/C/Users/admin/Desktop/html/css practice main section of websie/03 Main section of a website/index.html",
+		"/C/Users/admin/Desktop/html/css practice main section of websie/03 Main section of a website/css/style.css",
+		"/C/Users/admin/Desktop/html/css practice shake website/02 Shake website spotlight/index.html",
+		"/C/Users/admin/Desktop/html/css practice shake website/02 Shake website spotlight/css/style.css",
+		"/C/Users/admin/Desktop/html/frghgs.html",
+		"/C/Users/admin/Desktop/html/dbfgeb.css",
+		"/C/Users/admin/Desktop/html/css practice rental space/index.html",
+		"/C/Users/admin/Desktop/html/css practice rental space/css/style.css",
+		"/C/Users/admin/Desktop/html/website structuring/Bitbucket Website/Bitbucket/index.html",
+		"/C/Users/admin/Desktop/html/website structuring/Bitbucket Website/Bitbucket/css/style.css",
+		"/C/Users/admin/Desktop/html/website structuring/Bitbucket Website/Bitbucket/images/curve.svg",
+		"/C/Users/admin/Desktop/html/website structuring/Space website/Space/index.html",
+		"/C/Users/admin/Desktop/html/website structuring/Space website/Space/css/style.css",
+		"/C/Users/admin/Desktop/html/website structuring/Space website/bitbucket.css",
+		"/C/Users/admin/Desktop/html/website structuring/Space website/bitbucket.html",
+		"/C/Users/admin/Desktop/html/my web trials/facebook.html",
+		"/C/Users/admin/Desktop/html/my web trials/facebook.css",
+		"/C/Users/admin/Desktop/html/grid.css",
+		"/C/Users/admin/Desktop/html/sam.html",
+		"/C/Users/admin/Desktop/html/s.css",
+		"/C/Users/admin/Desktop/html/dfdfgbfg.html",
+		"/C/Users/admin/Desktop/html/New folder (2)/assignment.html",
+		"/C/Users/admin/Desktop/html/New folder (2)/assessment.css",
+		"/C/Users/admin/Desktop/html/project create a header/index.html",
+		"/C/Users/admin/Desktop/html/project create a header/css/style.css",
+		"/C/Users/admin/Desktop/html/project create a header/yhyhyhyh.html",
+		"/C/Users/admin/Desktop/html/project create a header/fkjhnfjfre.css",
+		"/C/Users/admin/Desktop/html/project gallery/02 Create a gallery/index.html",
+		"/C/Users/admin/Desktop/html/project gallery/02 Create a gallery/css/style.css",
+		"/C/Users/admin/Desktop/html/flex box project/01 Arrange a section using flexbox/project original answer/prorelod.css",
+		"/C/Users/admin/Desktop/html/flex box project/01 Arrange a section using flexbox/css/style.css",
+		"/C/Users/admin/Desktop/html/flex box project/01 Arrange a section using flexbox/index.html",
+		"/C/Users/admin/Desktop/html/flex box project/01 Arrange a section using flexbox/css/project relo.html",
+		"/C/Users/admin/Desktop/html/flex box project/01 Arrange a section using flexbox/css/prorelod.css",
+		"/C/Users/admin/Desktop/html/flex box project/01 Arrange a section using flexbox/css/dhf.css",
+		"/C/Users/admin/Desktop/html/flex box project/01 Arrange a section using flexbox/css/fdjfg.html",
+		"/I/abk photos/uygwyguuwdwwyuw.html",
+		"/I/abk photos/gallery.css",
+		"/I/abk photos/gallery.html",
+		"/C/Users/admin/Desktop/html/gallery.html",
+		"/C/Users/admin/Desktop/html/gallery.css",
+		"/C/Users/admin/Desktop/html/work.css",
+		"/C/Users/admin/Desktop/html/work.html",
+		"/C/Users/admin/Desktop/html/02 Create a spotlight with background/hhghsshhgmnssgfzfszatfszattfza.html",
+		"/C/Users/admin/Desktop/html/02 Create a spotlight with background/knn.css",
+		"/C/Users/admin/Desktop/html/02 Create a spotlight with background/index.html",
+		"/C/Users/admin/Desktop/html/02 Create a spotlight with background/style.css",
+		"/C/Users/admin/Desktop/html/fhgfh.html",
+		"/C/Users/admin/Desktop/html/ddfwgrg.css",
+		"/C/Users/admin/Desktop/html/index.html",
+		"/C/Users/admin/Desktop/html/style.css",
+		"/C/Users/admin/Desktop/html/style.html",
+		"/C/Users/admin/Desktop/html/sampl1.html",
+		"/C/Users/admin/Desktop/html/sampl.css",
+		"/C/Users/admin/Desktop/html/sam.css",
+		"/C/Users/admin/Desktop/html/project.html",
+		"/C/Users/admin/Desktop/html/styles.css",
+		"/C/Users/admin/Desktop/html/exam.html",
+		"/C/Users/admin/Desktop/html/sty.css",
+		"/C/Users/admin/Desktop/html/article.html",
+		"/C/Users/admin/Desktop/html/artcl.html",
+		"/C/Users/admin/Desktop/html/HTML/li tag .html",
+		"/C/Users/admin/Desktop/html/css 1.html",
+		"/C/Users/admin/Desktop/html/CSS.HTML",
+		"/C/Users/admin/Desktop/html/about.html",
+		"/C/Users/admin/Desktop/html/blog/Blog.html",
+		"/C/Users/admin/Desktop/html/group tags.html",
+		"/C/Users/admin/Desktop/html/Blog.html",
+		"/C/Users/admin/Desktop/html/fav.html",
+		"/C/Users/admin/Desktop/html/product form.html",
+		"/C/Users/admin/Desktop/html/table.html",
+		"/C/Users/admin/Desktop/html/text area.html",
+		"/C/Users/admin/Desktop/html/form input.html",
+		"/C/Users/admin/Desktop/html/student form.html",
+		"/C/Users/admin/Desktop/html/tables .html",
+		"/C/Users/admin/Desktop/html/product table.html",
+		"/C/Users/admin/Desktop/html/li tag .html",
+		"/C/Users/admin/Desktop/html/abi.html",
+		"/C/Users/admin/Desktop/html/li tag .ht03",
+		"/C/Users/admin/Desktop/html/Elephant.html",
+		"/C/Users/admin/Desktop/html/html",
+		"/C/Users/admin/Desktop/html/indet.html",
+		"/C/Users/admin/Desktop/html/IMG_20200725_205949 (2).jpg",
+		"/C/Users/admin/Desktop/HELL8O",
+		"/G/technopark.html",
+		"/G/twitter.html",
+		"/G/fb.css",
+		"/G/division.html",
+		"/G/bootstrap.html",
+		"/G/doubt.html",
+		"/G/index.html",
+		"/G/form.html",
+		"/G/facebook/index.html",
+		"/G/flora.html",
+		"/G/cs.css",
+		"/G/formone.css",
+		"/G/form1.html",
+		"/G/newform.html",
+		"/G/one.html",
+		"/G/first.html",
+		"/G/intex.html",
+		"/G/welcome.html",
+		"/G/new.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"curve",
+				"website structuring\\Bitbucket Website\\Bitbucket\\images\\curve.svg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
